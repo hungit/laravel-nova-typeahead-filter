@@ -43,5 +43,5 @@
 }
 
 .scroll-wrap {
-  &.overflow-x-hidden { overflow: unset !important; }
+  &.overflow-x-hidden { overflow: auto !important; }
 }
